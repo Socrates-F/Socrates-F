@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Computer Engineering Student<br>-Brazilian </p>
+<p align="left">-Computer Engineering Student<br>-Brazilian</p>
 
 ###
 
